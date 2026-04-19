@@ -3,7 +3,13 @@
 ### Desenvolvido por Miguel Gomes
 
 ---
+### Etapas do projeto
 
+1. Design
+2. Desenvolvimento Front-End
+3. Desenvolimento do Back-End
+
+---
 #### Funcionalidades:
 **Cadastrar as seguintes informações**
 - Nome do Responsável
@@ -19,3 +25,5 @@
 ---
 
 ## Front End do Projeto
+
+
