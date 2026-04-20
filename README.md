@@ -26,4 +26,6 @@
 
 ## Front End do Projeto
 
+---
+### Tecnologias Utilizadas
 
