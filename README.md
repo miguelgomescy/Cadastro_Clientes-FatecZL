@@ -29,3 +29,5 @@
 ---
 ### Tecnologias Utilizadas
 
+#### Front-End: React
+
