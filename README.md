@@ -31,7 +31,7 @@
 
 #### Front-End: React
 
-#### Back-End: NodeJS
+#### Back-End: NodeJS + Express
 
 #### Banco de Dados: SQLite
 
