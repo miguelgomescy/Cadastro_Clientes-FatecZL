@@ -35,3 +35,6 @@
 
 #### Banco de Dados: SQLite
 
+---
+
+## Implementações Futuras
